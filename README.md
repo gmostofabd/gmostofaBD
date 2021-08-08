@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Golam Mostofa</h1>
+<h1 align="center">Hi 👋, I'm Golam Mostofa</h1>
 <h3 align="center">A passionate embedded developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://github.com/gmostofabd/melab-store/blob/main/Images/cover_photo_github.png?raw=true" alt="gmostofabd" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Electronics, Microcontroller, Arduino, IOT**
 
-- 📫 How to reach me **gmostofa@iut-dhaka.edu**
+- 📫 How to reach me **mostofa.melab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
