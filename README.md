@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Golam Mostofa</h1>
 <h3 align="center">A passionate embedded developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://github.com/gmostofabd/melab-store/blob/main/Images/cover_photo_github.png?raw=true" alt="gmostofabd" /> </p>
+<p align="left"> <img src="" alt="gmostofabd" /> </p>
 
 - 🔭 I’m currently working on **Python Projects**
 
