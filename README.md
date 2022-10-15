@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Golam Mostofa</h1>
 <h3 align="center">A passionate embedded developer from Bangladesh</h3>
-![github-header-image (4)](https://user-images.githubusercontent.com/78910261/195971610-087e7ab2-957b-4d6a-ae6b-c4d5f8315160.png)
 
-<p align="left"> <img src="" alt="gmostofabd" /> </p>
+![github-header-image (4)](https://user-images.githubusercontent.com/78910261/195971707-f4a7eadb-5331-4c3a-b0b6-0b87a3390071.png)
 
 - 🔭 I’m currently working on **Python Projects**
 
