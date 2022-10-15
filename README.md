@@ -3,9 +3,9 @@
 
 ![github-header-image (4)](https://user-images.githubusercontent.com/78910261/195971707-f4a7eadb-5331-4c3a-b0b6-0b87a3390071.png)
 
-- 🔭 I’m currently working on **Python Projects**
+- 🔭 I’m currently working on **Microcontroller Programming, Adroid App for IoT, PCB Desinging and Project Prototyping**
 
-- 🌱 I’m currently learning **Machine Learning, AI**
+- 🌱 I’m currently learning **Python Projects, Machine Learning, AI**
 
 - 👯 I’m looking to collaborate on **Embedded System Developments**
 
