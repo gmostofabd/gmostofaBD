@@ -27,7 +27,13 @@
   
 <a href="https://www.python.org" target="_blank"> <img src="(https://user-images.githubusercontent.com/78910261/229284897-c124b710-9bba-472e-b74a-589ed8c24389.png)" alt="Visual Studio Code" width="30" height="40"/> </a>
 
+<a href="https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en_NZ&pli=1"> <img src="https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=en_NZ" alt="Visual Studio Code" width="30" height="40"/> </a>
 
+  
+  
+  
+  
+  
 
 </p>
 
