@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Golam Mostofa</h1>
 <h3 align="center">Embedded and IoT developer from Bangladesh</h3>
 
-![github-header-image (4)](https://user-images.githubusercontent.com/78910261/195971707-f4a7eadb-5331-4c3a-b0b6-0b87a3390071.png)
 
 - 🔭 I’m currently working on **Microcontroller Programming, Adroid App for IoT, PCB Desinging and Project Prototyping**
 
