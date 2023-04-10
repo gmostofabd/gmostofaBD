@@ -18,6 +18,14 @@
   <a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
+
+<p align="center">
+ 
+  <a href="https://github.com/gmostofabd">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gmostofabd&theme=dark&border_radius=3&date_format=j%20M%5B%20Y%5D" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
 <br/>
 <hr/>
 <br/>
@@ -27,12 +35,6 @@
 
 </p>
 
-<p align="center">
- 
-  <a href="https://github.com/gmostofabd">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gmostofabd&theme=dark&border_radius=3&date_format=j%20M%5B%20Y%5D" alt="Saif's GitHub streak"/>
-  </a>
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmostofabd&show_icons=true&locale=en&layout=compact" alt="gmostofabd" /></p>
 
