@@ -45,13 +45,9 @@
 <br/>
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gmostofabd&theme=dark&border_radius=3&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
-  
-  
-  
-  
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+ 
+  <a href="https://github.com/gmostofabd">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gmostofabd&theme=dark&border_radius=3&date_format=j%20M%5B%20Y%5D" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
