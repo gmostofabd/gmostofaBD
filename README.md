@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Golam Mostofa</h1>
+<h1 align="center">Golam Mostofa</h1>
 <h3 align="center">Embedded and IoT developer from Bangladesh</h3>
 
+- 🔭 **Microcontroller Programming, Adroid App for IoT, PCB Desinging and Project Prototyping**
 
-- 🔭 I’m currently working on **Microcontroller Programming, Adroid App for IoT, PCB Desinging and Project Prototyping**
-
-- 🌱 I’m currently learning **Python Projects, Machine Learning, AI**
+- 🌱 **Python Projects, Machine Learning, AI**
 
 - 👯 I’m looking to collaborate on **Embedded System Developments**
 
