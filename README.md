@@ -1,7 +1,7 @@
 <h1 align="center">Golam Mostofa</h1>
 <h3 align="center">Embedded and IoT developer from Bangladesh</h3>
 
-- 🔭 **Microcontroller Programming, Adroid App for IoT, PCB Desinging and Project Prototyping**
+- 🔭 My work area:<br>**Microcontroller Programming, Adroid App for IoT, PCB Desinging and Project Prototyping**
 
 - 🌱 **Python Projects, Machine Learning, AI**
 
