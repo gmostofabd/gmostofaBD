@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Embedded System Developments**
 
-- 💬 Ask me about **Electronics, Microcontroller, Arduino, IOT**
+- 💬 Ask me about:<br> **Electronics, Microcontroller, Arduino, IOT**
 
 - 📫 How to reach me **mostofa.melab@gmail.com**
 
