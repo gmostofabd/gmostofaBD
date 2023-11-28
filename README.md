@@ -19,7 +19,8 @@
   - **Embedded Designs**
   - **Robotics**
 
-- 💬 Ask me about:<br> **Electronics, Microcontroller, Arduino, IOT**
+- 💬 Ask me about:<br>
+  - **Electronics, Microcontroller, Arduino, IOT**
 
 - 📫 How to reach me **mostofa.melab@gmail.com**<br>
 **https://www.linkedin.com/in/gmostofa/**
