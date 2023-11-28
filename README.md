@@ -5,8 +5,11 @@
   - **STEAM Education for Kids**<br>
   - **Microcontroller Programming**<br>
   - **Adroid Apps and IoT**
-  - **Circuit Analysis**
-  - **PCB Desinging and Project Prototyping**
+  - **Circuit Analysis and Simulation**
+  - **PCB Desinging and Prototyping**
+  - **Web Development**
+  - **Graphics Designs**
+  - **Writing Papers and Articles**
 
 - 🌱 **Python Projects, Machine Learning, AI**
 
