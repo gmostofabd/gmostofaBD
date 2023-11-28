@@ -2,6 +2,7 @@
 <h3 align="center">More About me</h3>
 
 - 🔭 My work area:<br>
+  - **STEAM Educator**<br>
   - **Microcontroller Programming**<br>
   - **Adroid App for IoT**
   - **PCB Desinging and Project Prototyping**
