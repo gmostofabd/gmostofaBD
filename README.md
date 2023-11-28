@@ -1,5 +1,5 @@
 <hr>
-<h3 align="center"><p style="color:red;"> More About me</h3>
+<h3 align="center"><p style="color:red;"> More About me</p></h3>
 
 - 🔭 My work area:<br>
   - **STEAM Education for Kids**<br>
