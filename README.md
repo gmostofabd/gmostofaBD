@@ -11,9 +11,13 @@
   - **Graphics Designs**
   - **Writing Papers and Articles**
 
-- 🌱 **Python Projects, Machine Learning, AI**
+- 🌱 Currently Learning:<br>
+  - **Python, ML and AI**
+  - **VLSI Designing**
 
-- 👯 I’m looking to collaborate on **Embedded System Developments**
+- 👯 I’m looking to collaborate on:
+  - **Embedded Designs**
+  - **Robotics**
 
 - 💬 Ask me about:<br> **Electronics, Microcontroller, Arduino, IOT**
 
