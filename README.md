@@ -25,6 +25,7 @@
 - 📫 How to reach me:
   - **mostofa.melab@gmail.com**<br>
   - **https://www.linkedin.com/in/gmostofa/**
+  - **https://g.dev/gmostofabd**
   - **https://www.youtube.com/@melabbd**
 
 <p align="center">
