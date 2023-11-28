@@ -1,5 +1,5 @@
 <hr>
-<h3 align="center">more about me</h3>
+<h3 align="center">More about me</h3>
 
 - 🔭 My work area:<br>
   - **STEAM Education for Kids**<br>
