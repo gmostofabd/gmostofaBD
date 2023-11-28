@@ -1,6 +1,6 @@
 <h3 align="center">More About me</h3>
 
-- 🔭 My work area:<br>-**Microcontroller Programming, -Adroid App for IoT, PCB Desinging and Project Prototyping**
+- 🔭 My work area:<br>-**Microcontroller Programming**<br>-Adroid App for IoT, PCB Desinging and Project Prototyping**
 
 - 🌱 **Python Projects, Machine Learning, AI**
 
