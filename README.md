@@ -22,8 +22,9 @@
 - 💬 Ask me about:<br>
   - **Electronics, Microcontroller, Arduino, IOT**
 
-- 📫 How to reach me **mostofa.melab@gmail.com**<br>
-**https://www.linkedin.com/in/gmostofa/**
+- 📫 How to reach me:
+  - **mostofa.melab@gmail.com**<br>
+  - **https://www.linkedin.com/in/gmostofa/**
 
 <p align="center">
 
