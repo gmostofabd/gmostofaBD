@@ -2,9 +2,10 @@
 <h3 align="center">More About me</h3>
 
 - 🔭 My work area:<br>
-  - **STEAM Educator**<br>
+  - **STEAM Education for Kids**<br>
   - **Microcontroller Programming**<br>
-  - **Adroid App for IoT**
+  - **Adroid Apps and IoT**
+  - **Circuit Analysis**
   - **PCB Desinging and Project Prototyping**
 
 - 🌱 **Python Projects, Machine Learning, AI**
