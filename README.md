@@ -1,5 +1,6 @@
-<h3 align="center">More About me</h3>
 <hr>
+<h3 align="center">More About me</h3>
+
 - 🔭 My work area:<br>
   - **Microcontroller Programming**<br>
   - **Adroid App for IoT**
