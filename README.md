@@ -1,5 +1,5 @@
-<h1 align="center">Hello</h1>
-<h3 align="center">Embedded and IoT developer from Bangladesh</h3>
+<h1 align="center">About</h1>
+<h3 align="center">Golam Mostofa</h3>
 
 - 🔭 My work area:<br>**Microcontroller Programming, Adroid App for IoT, PCB Desinging and Project Prototyping**
 
