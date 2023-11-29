@@ -11,7 +11,7 @@
   - **Graphics Designs**
   - **Writing Papers and Articles**
 
-- 🌱 Currently Learning:<br>
+- 🌱 Currently Learning:
   - **Python, ML and AI**
   - **VLSI Designing**
 
