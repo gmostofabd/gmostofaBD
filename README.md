@@ -26,7 +26,7 @@
   - **mostofa.melab@gmail.com**
   - **https://www.linkedin.com/in/gmostofa/**
   - **https://g.dev/gmostofabd**
-  - **https://www.fiver.com/melab_bd**
+  - **https://www.fiverr.com/melab_bd**
 
 <p align="center">
 <a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
