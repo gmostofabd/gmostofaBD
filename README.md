@@ -2,10 +2,13 @@
 <h3 align="left">More about me ...</h3>
 
 - 🔭 My eCard:<br>
-  - **https://linko.page/gmostofabd**![2852613](https://github.com/gmostofabd/gmostofabd/assets/78910261/582aa506-7d22-4ac4-97d5-13bcc6bbb617)
-![emailSignature (1)](https://github.com/gmostofabd/gmostofabd/assets/78910261/95b15982-6162-4147-9d59-8c270d66baba)
+  - **https://linko.page/gmostofabd**
+![TBD_Business_Card_2](https://github.com/gmostofabd/gmostofabd/assets/78910261/76e483bd-df7b-48fb-bf4b-9046b5a16a67)
 
 - 🔭 My work area:<br>
+
+
+
 
 
 
