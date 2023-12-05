@@ -1,17 +1,13 @@
 <hr>
 <h3 align="left">More about me ...</h3>
+![TBD_Business_Card_2](https://github.com/gmostofabd/gmostofabd/assets/78910261/76e483bd-df7b-48fb-bf4b-9046b5a16a67)
+
 
 - 🔭 My eCard:<br>
   - **https://linko.page/gmostofabd**
-![TBD_Business_Card_2](https://github.com/gmostofabd/gmostofabd/assets/78910261/76e483bd-df7b-48fb-bf4b-9046b5a16a67)
+
 
 - 🔭 My work area:<br>
-
-
-
-
-
-
   - **STEAM Education for Kids**
   - **Microcontroller Programming**
   - **Adroid Apps and IoT**
