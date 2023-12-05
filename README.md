@@ -3,14 +3,7 @@
 
 
 
-
-
-
-![TBD_Business_Card_2a](https://github.com/gmostofabd/gmostofabd/assets/78910261/f07c1bc0-b0b1-4d94-85a1-45488902adf8)
-
-
-
-
+![TBD_Business_Card_2a](https://github.com/gmostofabd/gmostofabd/assets/78910261/3d198e6a-efe2-4150-bbbf-6bc93edec181)
 
 
 
