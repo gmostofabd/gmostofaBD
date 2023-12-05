@@ -1,6 +1,6 @@
 <hr>
 <h3 align="left">More about me ...</h3>
-![TBD_Business_Card_2](https://github.com/gmostofabd/gmostofabd/assets/78910261/76e483bd-df7b-48fb-bf4b-9046b5a16a67)
+![TBD_Business_Card_2](https://github.com/gmostofabd/gmostofabd/assets/78910261/5fa65505-816e-407b-a4d9-455ddb06e219)
 
 
 - 🔭 My eCard:<br>
