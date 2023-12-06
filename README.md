@@ -61,15 +61,8 @@
 
 
 
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmostofabd&show_icons=true&locale=en&layout=compact" alt="gmostofabd" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmostofabd&show_icons=true&locale=en" alt="gmostofabd" /></p>
-
-
-
 
 
 <br/>
@@ -95,5 +88,5 @@
 </a>
 
 
-![Al gmostofabd's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gmostofabd&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Al gmostofabd's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=gmostofabd&custom_title=Al%20gmostofabd's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
