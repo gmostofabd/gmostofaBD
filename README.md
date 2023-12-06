@@ -54,6 +54,21 @@
 </p>
 
 
+
+## Top Open Source -
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/web-project)
+
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=8051-Assembly-Programming-and-Proteus-Simulation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)
+
+
+
+
+
+
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmostofabd&show_icons=true&locale=en&layout=compact" alt="gmostofabd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmostofabd&show_icons=true&locale=en" alt="gmostofabd" /></p>
