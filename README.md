@@ -1,5 +1,6 @@
 
-![TBD_Business_Card_4](https://github.com/gmostofabd/gmostofabd/assets/78910261/ca1b01e7-20b5-4880-964d-0baf6d0d25f6)
+![TBD_Business_Card_4](https://github.com/gmostofabd/gmostofabd/assets/78910261/ca1b![TBD_Business_Card_4_HQ](https://github.com/gmostofabd/gmostofabd/assets/78910261/43db4789-d28b-42cd-aa0d-ed4991805137)
+01e7-20b5-4880-964d-0baf6d0d25f6)
 
 <hr>
 <h3 align="left">More about me ...</h3>
