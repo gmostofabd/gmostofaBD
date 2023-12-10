@@ -1,4 +1,4 @@
-]<a href="https://komarev.com/ghpvc/?username=gmostofabd">
+<a href="https://komarev.com/ghpvc/?username=gmostofabd">
   <img align="right" src="https://komarev.com/ghpvc/?username=gmostofabd&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a> 
 
