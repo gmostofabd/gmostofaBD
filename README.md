@@ -36,7 +36,7 @@
 
 - 📫 How to reach me:
   - **mostofa.melab@gmail.com**
-  - **https://www.linkedin.com/in/gmostofa/**
+  - **https://www.linkedin.com/in/gmostofabd/**
   - **https://sites.google.com/view/gmostofabd/home**
   - **https://g.dev/gmostofabd**
   - **https://www.fiverr.com/melab_bd**
