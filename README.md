@@ -42,6 +42,12 @@
   - **https://www.fiverr.com/melab_bd**
   - **https://sites.google.com/view/melabbd/home**
   - **https://linko.page/gmostofabd**
+ 
+- 📫 My Publications:
+  - **Topic : Design and Development of an Efficient IoT-based Egg Incubation System.**
+  - **Publisher : IEEE **
+  - **Show Publication..**
+  - **https://ieeexplore.ieee.org/document/10212960**
 
 <p align="center">
 <a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
