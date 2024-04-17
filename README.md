@@ -13,14 +13,14 @@
 
 
 
-- 🔭 My work area:<br>
-  - **STEAM Education for Kids**
+- 🔭 My work areas:<br>
+  - **Electronics Circuit Analysis and Simulation**
+  - **PCB Desinging and Prototyping**
   - **Microcontroller Programming**
   - **Adroid Apps and IoT**
-  - **Circuit Analysis and Simulation**
-  - **PCB Desinging and Prototyping**
   - **Web Development**
   - **Graphics Designs**
+  - **STEAM Education for Kids**
   - **Writing Papers and Articles**
 
 - 🌱 Currently Learning:
@@ -32,7 +32,7 @@
   - **Robotics**
 
 - 💬 Ask me about:
-  - **Electronics, Microcontroller, Arduino, IOT**
+  - **Electronics, Microcontroller, Arduino, IOT, Robotics and STEAM Education**
 
 - 📫 How to reach me:
   - **mostofa.melab@gmail.com**
@@ -45,7 +45,7 @@
  
 - 📫 My Publications:
   - **Topic : Design and Development of an Efficient IoT-based Egg Incubation System.**
-  - **Publisher : IEEE **
+  - **Publisher : IEEE**
   - **Show Publication..**
   - **https://ieeexplore.ieee.org/document/10212960**
 
