@@ -6,20 +6,11 @@
 <img src="https://github.com/gmostofabd/gmostofabd/assets/78910261/e1ccbecb-7c16-43bd-bcb0-af850f3ef145">
 </p>
 
-
-
-
-
-![TBD_Business_Card_4_HQ](https://github.com/gmostofabd/gmostofabd/assets/78910261/0d485742-6264-4dba-bf1b-e0812705907f)
-
-
 <hr>
 <h3 align="left">More about me ...</h3>
 
 - 🔭 My eCard:<br>
   - **https://linko.page/gmostofabd**
-
-
 
 - 🔭 My work areas:<br>
   - **Electronics Circuit Analysis and Simulation**
