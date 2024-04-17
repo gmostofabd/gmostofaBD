@@ -55,11 +55,7 @@
   - **Show Publication..**
   - **https://ieeexplore.ieee.org/document/10212960**
 
-<p align="center">
-<a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
-<br/>
 
 ## 🛠️ My Favourite tools
 
@@ -103,6 +99,10 @@
 </p>
 
 
+
+<p align="center">
+<a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
 
 ## Top Open Source -
