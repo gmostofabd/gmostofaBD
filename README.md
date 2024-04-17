@@ -1,5 +1,5 @@
 <a href="https://komarev.com/ghpvc/?username=gmostofabd">
-  <img align="right" src="https://komarev.com/ghpvc/?username=gmostofabd&label=ProfileVirews&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=gmostofabd&label=ProfileViews&color=0e75b6&style=flat" alt="Profile visitor" />
 </a> 
 
 ![TBD_Business_Card_4_HQ](https://github.com/gmostofabd/gmostofabd/assets/78910261/0d485742-6264-4dba-bf1b-e0812705907f)
