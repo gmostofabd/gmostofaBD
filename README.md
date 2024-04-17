@@ -3,7 +3,7 @@
 </a> 
 
 <p align="center">
-	![gmostofaBD_Github_Profile_Banner_1 1](https://github.com/gmostofabd/gmostofabd/assets/78910261/e1ccbecb-7c16-43bd-bcb0-af850f3ef145)
+<img src="https://github.com/gmostofabd/gmostofabd/assets/78910261/e1ccbecb-7c16-43bd-bcb0-af850f3ef145">
 </p>
 
 
