@@ -16,9 +16,6 @@
 <hr>
 <h3 align="left">More about me ...</h3>
 
-- 🔭 My eCard:<br>
-  - **https://linko.page/gmostofabd**
-
 - 🔭 My work areas:<br>
   - **Electronics Circuit Analysis and Simulation**
   - **PCB Desinging and Prototyping**
