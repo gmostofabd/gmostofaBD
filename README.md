@@ -132,7 +132,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/user-attachments/assets/e889a00a-67ba-4256-a8d5-49af8a41a360"/>
+  <img alt="STEAM Education" src="https://github.com/user-attachments/assets/e889a00a-67ba-4256-a8d5-49af8a41a360"/>
 
 
   
