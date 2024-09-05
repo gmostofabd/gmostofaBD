@@ -36,6 +36,10 @@
   - **https://sites.google.com/view/melabbd**
   - **https://www.fiverr.com/melab_bd**
   - - **https://www.youtube.com/@melabbd**
+   
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/gmostofabd)
+
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gmostofabd)
  
 - 📫 My Publications:
   - **Topic : Design and Development of an Efficient IoT-based Egg Incubation System.**
@@ -120,6 +124,4 @@
 </a>
 
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/gmostofabd)
 
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gmostofabd)
