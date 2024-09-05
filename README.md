@@ -125,4 +125,7 @@
 </a>
 
 
-
+<p align="center"> © 2021 gmostofaBD, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+https://
+</p>
