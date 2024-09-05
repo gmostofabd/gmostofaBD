@@ -50,6 +50,18 @@
   - **Show Publication..**
   - **https://ieeexplore.ieee.org/document/10212960**
 
+<br/>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="STEAM Education" src="https://github.com/user-attachments/assets/e889a00a-67ba-4256-a8d5-49af8a41a360"/>  
+ 
+</div>
+<hr/>
+
+
+
 ## 🛠️ My Favourite tools
 
 ### 👨‍💻 Programming languages
@@ -126,15 +138,7 @@
   <br/>
 </a>
 
-<br/>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="STEAM Education" src="https://github.com/user-attachments/assets/e889a00a-67ba-4256-a8d5-49af8a41a360"/>  
- 
-</div>
-<hr/>
+
 
 
 <p align="center"> © 2021 gmostofaBD, all rights reserved. Made with ❤️ for a better web. </p>
