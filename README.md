@@ -2,16 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=gmostofabd&label=ProfileViews&color=0e75b6&style=flat" alt="Profile visitor" />
 </a> 
 
-
 [![Header](https://github.com/gmostofabd/gmostofabd/assets/78910261/e1ccbecb-7c16-43bd-bcb0-af850f3ef145 "Header")](https://sites.google.com/view/gmostofabd/)
-
-
-
-
-
-<p align="center">
-<img src="https://github.com/gmostofabd/gmostofabd/assets/78910261/e1ccbecb-7c16-43bd-bcb0-af850f3ef145">
-</p>
 
 <hr>
 <h3 align="left">More about me ...</h3>
