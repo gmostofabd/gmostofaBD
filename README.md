@@ -33,19 +33,16 @@
 - 📫 How to reach me:
   - **mostofa.melab@gmail.com**
   - **https://www.linkedin.com/in/gmostofabd/**
-  - **https://sites.google.com/view/gmostofabd/home**
+  - **https://sites.google.com/view/gmostofabd**
   - **https://g.dev/gmostofabd**
+  - **https://sites.google.com/view/melabbd**
   - **https://www.fiverr.com/melab_bd**
-  - **https://sites.google.com/view/melabbd/home**
-  - **https://linko.page/gmostofabd**
  
 - 📫 My Publications:
   - **Topic : Design and Development of an Efficient IoT-based Egg Incubation System.**
   - **Publisher : IEEE**
   - **Show Publication..**
   - **https://ieeexplore.ieee.org/document/10212960**
-
-
 
 ## 🛠️ My Favourite tools
 
@@ -60,7 +57,6 @@
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
-
 
 ### 🧰 Frameworks and libraries
 
@@ -92,7 +88,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
 
 
 <p align="center">
