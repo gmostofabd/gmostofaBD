@@ -27,7 +27,6 @@
 
 - 💬 Ask me about:
   - **Electronics, Microcontroller, Arduino, IOT, Robotics and STEAM Education**
-
  <hr>
 
 ## 📫 How to reach me:
@@ -52,11 +51,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="STEAM Education" src="https://github.com/user-attachments/assets/e889a00a-67ba-4256-a8d5-49af8a41a360"/>  
- 
 </div>
 <hr/>
-
-
 
 ## 🛠️ My Favourite tools
 
@@ -103,11 +99,9 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
 <p align="center">
 <a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
 
 ## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/web-projects) [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=8051-Assembly-Programming-and-Proteus-Simulation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)
@@ -133,9 +127,6 @@
   <a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gmostofabd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-
-
 
 <p align="center"> © 2021 gmostofaBD, all rights reserved. Made with ❤️ for a better web. </p>
 <p align="center">
