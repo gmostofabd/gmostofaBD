@@ -4,12 +4,7 @@
 
 [![Header](https://github.com/gmostofabd/gmostofabd/assets/78910261/e1ccbecb-7c16-43bd-bcb0-af850f3ef145 "Header")](https://sites.google.com/view/gmostofabd)
 
-
-![Dev_kit_by_gmostofaBD](https://github.com/user-attachments/assets/4f7c005b-d4f2-407e-8aac-7cb00dbad836)
-
 ![MK_51S_Simu_1](https://github.com/user-attachments/assets/cb24ba0b-56c8-432a-b949-bd34c3f8d6af)
-![MK_51S_Simu_1_WB](https://github.com/user-attachments/assets/b35a4077-36aa-4034-a254-c23c6ed9e920)
-
 
 <hr>
 <h3 align="left">More about me ...</h3>
