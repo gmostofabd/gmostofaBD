@@ -1,11 +1,7 @@
 <a href="https://komarev.com/ghpvc/?username=gmostofabd">
   <img align="right" src="https://komarev.com/ghpvc/?username=gmostofabd&label=ProfileViews&color=0e75b6&style=flat" alt="Profile visitor" />
 </a> 
-
-[![Header](https://github.com/gmostofabd/gmostofabd/assets/78910261/e1ccbecb-7c16-43bd-bcb0-af850f3ef145 "Header")](https://sites.google.com/view/gmostofabd)
-
 ![MK_51S_Simu_1](https://github.com/user-attachments/assets/cb24ba0b-56c8-432a-b949-bd34c3f8d6af)
-
 <hr>
 **gmostofaBD**
 
@@ -83,7 +79,8 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
-
+<br/>
+<hr/>
 ### 🧰 Frameworks and libraries
 <p>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -93,7 +90,8 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
   <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000"></a>  
 <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></a>
 </p>
-
+<br/>
+<hr/>
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
@@ -101,7 +99,8 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
 </p>
-
+<br/>
+<hr/>
 ### 💻 Software and tools
 
 <p>
@@ -116,7 +115,8 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 <p align="center">
 <a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
+<br/>
+<hr/>
 ## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/web-projects) [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=8051-Assembly-Programming-and-Proteus-Simulation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)
 
