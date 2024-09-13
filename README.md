@@ -44,6 +44,11 @@ I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engine
 - [Google Dev](https://g.dev/gmostofabd)
 - [Gmail] mostofa.melab@gmail.com
 
+📫 How to Reach Me:
+
+Email: mostofa.melab@gmail.com
+
+
 ### 📚 **Featured Publication**
 - **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
 - **Publisher:** IEEE
