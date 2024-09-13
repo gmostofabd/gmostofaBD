@@ -30,17 +30,19 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 
 <br/>
 
-### 💬 **Feel Free to Ask Me About**
-- **Electronics, Microcontrollers, Arduino, IoT, Robotics, and STEAM Education**: I’m here to offer insights and knowledge on these exciting topics.
-
-<br/>
-
 ### 🛠️ **My Favourite Tools**
 - **Programming Languages**: C, C++, CSS, HTML, JavaScript, Python, SQL
 - **Frameworks and Libraries**: Arduino, Python, Blogger, Fiverr, Illustrator
 - **Databases and Cloud Hosting**: GitHub Pages, MySQL
 - **Software and Tools**: Codepen, Git, Illustrator, OBS Studio, Stack Overflow, Visual Studio Code
 
+<br/>
+
+### 💬 **Feel Free to Ask Me About**
+- **Electronics, Microcontrollers, Arduino, IoT, Robotics, and STEAM Education**: I’m here to offer insights and knowledge on these exciting topics.
+
+<br/>
+<hr/>
 <br/>
 
 ### 📫 **Connect with Me**
@@ -113,11 +115,13 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+
 </p>
 <br/>
 <hr/>
 
 ###  🧰  **Frameworks and libraries**:
+
 <p>
   
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -162,7 +166,6 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 </p>
 
 <br/>
-<hr/>
 <br/>
 
 <p align="center">
@@ -177,7 +180,7 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 
 <p align="center">
   
-<a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gmostofabd&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> <a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gmostofabd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gmostofabd&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="45.5%"/></a><a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gmostofabd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
 </p>
 
@@ -186,5 +189,3 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 <br/>
 
 <p align="center"> © 2021 gmostofaBD, all rights reserved.</p>
-
-<p align="center"> https://  </p>
