@@ -60,32 +60,20 @@ I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engine
 - **YouTube & Blogs**: Educational content and discussions on various technical subjects.
 - **STEAM Education**: Leading Technocraphy BD to inspire young minds with hands-on learning. At Technocraphy BD, we focus on promoting STEAM (Science, Technology, Engineering, Arts, and Mathematics) education across Bangladesh. We provide engaging, hands-on learning experiences in robotics, IoT, and other technological fields, aiming to spark curiosity and foster skills in the next generation of innovators.
 - **melab BD**: At melab BD, we specialize in the design, development, and consultancy of Embedded Systems, Robotics, IoT solutions, and Industrial Automation. We also offer comprehensive training in microcontroller programming, PCB design, and more, helping clients and students alike achieve their engineering goals.
+- 
 
 ### 🔝 **All Repositories**
 - [Top Open Source Projects](https://github.com/your-profile?tab=repositories)
 
 Feel free to explore my repositories and projects, and let’s connect if you share similar interests or have any questions!
-
 ---
 
-This version includes detailed information about both melab BD and Technocraphy BD, highlighting your contributions to each organization.
 ## 👨‍💻 All of my projects are available at:
 -  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
-
 <br/>
 <hr/>
 
-<div align="left">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="STEAM Education" src="https://github.com/user-attachments/assets/e889a00a-67ba-4256-a8d5-49af8a41a360"/>  
-</div>
-<hr/>
-
-## 🛠️ My Favourite tools
-
 ### 👨‍💻 Programming languages
-
 <p>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -97,15 +85,13 @@ This version includes detailed information about both melab BD and Technocraphy 
 </p>
 
 ### 🧰 Frameworks and libraries
-
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"></a>
+  <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"></a>
   <a href="#"><img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
   <a href="#"><img alt="Fiverr" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
   <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000"></a>  
 <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></a>
-
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
