@@ -60,14 +60,13 @@ I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engine
 - **melab BD**: At melab BD, we specialize in the design, development, and consultancy of Embedded Systems, Robotics, IoT solutions, and Industrial Automation. We also offer comprehensive training in microcontroller programming, PCB design, and more, helping clients and students alike achieve their engineering goals.
 - 
 
-###  🔝  **All Repositories**:
-- [Top Open Source Projects](https://github.com/gmostofabd?tab=repositories)
+###  👨‍💻  **All of my projects are available at**:
+-  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
+
 
 Feel free to explore my repositories and projects, and let’s connect if you share similar interests or have any questions!
 ---
 
-###  👨‍💻  **All of my projects are available at**:
--  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
 <br/>
 <hr/>
 
