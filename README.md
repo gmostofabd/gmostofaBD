@@ -7,11 +7,7 @@
 ![MK_51S_Simu_1](https://github.com/user-attachments/assets/cb24ba0b-56c8-432a-b949-bd34c3f8d6af)
 
 <hr>
-
-Here’s an enhanced version of your GitHub profile introduction, with detailed information about Technocraphy BD:
-
 ---
-
 ## Hi There! I'm Golam Mostofa 👋
 
 I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engineering (EEE) department at the Islamic University of Technology (IUT) in Gazipur, Bangladesh. With a background in technology research and international conference experience, I love diving into hands-on projects and exploring innovative solutions.
