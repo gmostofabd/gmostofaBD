@@ -3,13 +3,12 @@
 </a> 
 
 ![MK_51S_Simu_1](https://github.com/user-attachments/assets/cb24ba0b-56c8-432a-b949-bd34c3f8d6af)
-<hr>
 
-## Hi There! I'm gmostofaBD 👋
+<hr/>
 
+# Hi There! I'm gmostofaBD 👋
 ---
 I'm a passionate Electronic Engineer at an Engineering University in Bangladesh. With a background in technology research and international conference experience, I love diving into hands-on projects and exploring innovative solutions.
-
 <br/><br/>
 
 ### 🔭 **What I Do**
@@ -56,7 +55,7 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 
 <br/>
 <hr/>
-<hr/>
+<br/>
 
 ### 📚 **Featured Publication**
 - **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
@@ -97,6 +96,10 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 
 </p>
 
+###  👨‍💻  **Top Open Source**
+
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/web-projects) [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=8051-Assembly-Programming-and-Proteus-Simulation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)
+
 <br/>
 <hr/>
 <br/>
@@ -125,7 +128,6 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 
 </p>
 
-
 <br/>
 <hr/>
 <br/>
@@ -150,14 +152,6 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> <a href="#"><img alt="Illustrator" src="https://aleen42.github.io/badges/src/illustrator.svg"></a> <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a> <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
 </p>
-
-<br/>
-<hr/>
-<br/>
-
-###  👨‍💻  **Top Open Source**
-
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/web-projects) [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=gmostofabd&repo=8051-Assembly-Programming-and-Proteus-Simulation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)
 
 <br/>
 <hr/>
