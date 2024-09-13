@@ -42,11 +42,7 @@ I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engine
 - [Fiverr](https://www.fiverr.com/melab_bd)
 - [Personal Website](https://sites.google.com/view/gmostofabd)
 - [Google Dev](https://g.dev/gmostofabd)
-- [Gmail] mostofa.melab@gmail.com
-
-###  📫  **How to Reach Me**:
-
-Email: mostofa.melab@gmail.com
+- Email: mostofa.melab@gmail.com
 
 
 ### 📚 **Featured Publication**
@@ -64,18 +60,18 @@ Email: mostofa.melab@gmail.com
 - **melab BD**: At melab BD, we specialize in the design, development, and consultancy of Embedded Systems, Robotics, IoT solutions, and Industrial Automation. We also offer comprehensive training in microcontroller programming, PCB design, and more, helping clients and students alike achieve their engineering goals.
 - 
 
-### 🔝 **All Repositories**
-- [Top Open Source Projects](https://github.com/your-profile?tab=repositories)
+###  🔝  **All Repositories**:
+- [Top Open Source Projects](https://github.com/gmostofabd?tab=repositories)
 
 Feel free to explore my repositories and projects, and let’s connect if you share similar interests or have any questions!
 ---
 
-###  👨‍💻  All of my projects are available at:
+###  👨‍💻  **All of my projects are available at**:
 -  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
 <br/>
 <hr/>
 
-### 👨‍💻 Programming languages
+###  👨‍💻  **Programming languages**:
 <p>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
