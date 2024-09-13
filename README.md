@@ -13,6 +13,12 @@
 I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engineering (EEE) department at the Islamic University of Technology (IUT) in Gazipur, Bangladesh. With a background in technology research and international conference experience, I love diving into hands-on projects and exploring innovative solutions.
 
 ### 🔭 **What I Do**
+-  **Embedded Systems & IoT**: I specialize in crafting custom solutions, including PCB designs and robotics. At melab BD, I drive the design and development of embedded systems and IoT solutions, providing consultancy and training to both clients and students.
+-  **Electronics & Programming**: My expertise spans electronic circuit analysis, microcontroller programming, and industrial automation. I integrate these technologies into practical and educational projects, enhancing both learning and real-world applications.
+-  **Web & App Development**: I excel in front-end development, Android app creation, and web design, creating dynamic and user-friendly applications and interfaces.
+
+
+### 🔭 **What I Do**
 - **Embedded Systems & IoT**: Designing and developing custom solutions, PCB designs, and robotics. At melab BD, I lead initiatives in embedded system design, IoT solutions, and industrial automation, offering consultancy and training in microcontroller programming and PCB design.
 - **Electronics & Programming**: Expertise in electronic circuit analysis, microcontroller programming, and industrial automation. My work integrates these technologies into practical and educational projects.
 - **Web & App Development**: Skilled in front-end development, Android app creation, and web design. I use my skills to develop user-friendly applications and interactive web interfaces.
