@@ -62,6 +62,12 @@ I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engine
 
 ###  👨‍💻  **All of my projects are available at**:
 -  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
+-  
+<p align="center">
+  
+<a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+
+</p>
 
 
 Feel free to explore my repositories and projects, and let’s connect if you share similar interests or have any questions!
@@ -93,7 +99,6 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
   <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000"></a> <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></a>
 
 </p>
-
 <br/>
 <hr/>
 
@@ -117,12 +122,6 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 
 </p>
 
-<p align="center">
-  
-<a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-
-</p>
-
 <br/>
 <hr/>
 
@@ -139,16 +138,13 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 <a href="https://github.com/gmostofabd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gmostofabd&theme=radical&border=7F3FBF&background=0D1117" alt="gmostofabd's GitHub streak"/></a>
   
 </p>
+<br/>
+<hr/>
+<br/>
 
 <p align="center">
 
-<a href="https://github.com/gmostofabd"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmostofabd&theme=radical" alt="Al gmostofabd's GitHub Contribution"/></a>
-  
-</p>
-
-<a> 
-<a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gmostofabd&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> <a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gmostofabd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</a>
+<a href="https://github.com/gmostofabd"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmostofabd&theme=radical" alt="Al gmostofabd's GitHub Contribution"/></a> <a> <a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gmostofabd&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> <a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gmostofabd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> </a>
 
 <br/>
 <hr/>
