@@ -12,11 +12,11 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 
 <br/><br/>
 
-
 ### 🔭 **What I Do**
 -  **Embedded Systems & IoT**: I specialize in crafting custom solutions, including PCB designs and robotics. At melab BD, I drive the design and development of embedded systems and IoT solutions, providing consultancy and training to both clients and students.
 -  **Electronics & Programming**: My expertise spans electronic circuit analysis, microcontroller programming, and industrial automation. I integrate these technologies into practical and educational projects, enhancing both learning and real-world applications.
 -  **Web & App Development**: I excel in front-end development, Android app creation, and web design, creating dynamic and user-friendly applications and interfaces.
+
 <br/>
 
 ### 🌱 **Currently Exploring**
@@ -28,6 +28,7 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 ### 👯 **Let’s Collaborate On**
 - **Embedded Designs**: Developing customized solutions for diverse applications, from industrial to consumer electronics.
 - **Robotics**: Building innovative robots and systems, leveraging my expertise in automation and robotics.
+
 <br/>
 
 ### 💬 **Feel Free to Ask Me About**
@@ -54,6 +55,8 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 - Email: mostofa.melab@gmail.com
 
 <br/>
+<hr/>
+<hr/>
 
 ### 📚 **Featured Publication**
 - **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
@@ -61,10 +64,14 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 - [Explore the Publication](https://ieeexplore.ieee.org/document/10212960)
 
 <br/>
+<hr/>
+<br/>
 
 ###  👨‍💻  **Check Out My Projects**
 - [Discover My Work](https://sites.google.com/view/gmostofabd/projects/)
 
+<br/>
+<hr/>
 <br/>
 
 ### 🐍 **My Contributions**
@@ -74,9 +81,15 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 - **melab BD**: At melab BD, we specialize in the design, development, and consultancy of Embedded Systems, Robotics, IoT solutions, and Industrial Automation. We also offer comprehensive training in microcontroller programming, PCB design, and more, helping clients and students alike achieve their engineering goals.
 
 <br/>
+<hr/>
+<br/>
 
 ###  👨‍💻  **All of my projects are available at**:
 -  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
+
+<br/>
+<hr/>
+<br/>
 
 <p align="center">
   
@@ -85,14 +98,8 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 </p>
 
 <br/>
-<br/>
-<br/>
-
-Feel free to explore my repositories and projects, and let’s connect if you share similar interests or have any questions!
----
-
-<br/>
 <hr/>
+<br/>
 
 ###  👨‍💻  **Programming languages**:
 <p>
@@ -117,8 +124,11 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
   <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000"></a> <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"></a>
 
 </p>
+
+
 <br/>
 <hr/>
+<br/>
 
 ###  🗄️  **Databases and Cloud Hosting**:
 
@@ -131,6 +141,7 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 
 <br/>
 <hr/>
+<br/>
 
 ###  💻  **Software and tools**:
 
@@ -142,6 +153,7 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 
 <br/>
 <hr/>
+<br/>
 
 ###  👨‍💻  **Top Open Source**
 
@@ -152,29 +164,33 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 <br/>
 
 <p align="center">
-  
 <a href="https://github.com/gmostofabd"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gmostofabd&theme=radical&border=7F3FBF&background=0D1117" alt="gmostofabd's GitHub streak"/></a>
-  
 </p>
 
 <br/>
+<hr/>
+<br/>
+
+<p align="center">
+  
+<a href="https://github.com/gmostofabd"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmostofabd&theme=radical" alt="Al gmostofabd's GitHub Contribution"/></a>
+
+</p>
+
 <br/>
 <hr/>
 <br/>
 
-<a href="https://github.com/gmostofabd"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gmostofabd&theme=radical" alt="Al gmostofabd's GitHub Contribution"/></a> 
-
-<hr/>
-<br/>
 <p align="center">
   
 <a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gmostofabd&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> <a href="https://github.com/gmostofabd"><img alt="Al gmostofabd's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gmostofabd&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 
 </p>
 
+<br/>
 <hr/>
 <br/>
 
-<p align="center"> © 2021 gmostofaBD, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2021 gmostofaBD, all rights reserved.</p>
 
 <p align="center"> https://  </p>
