@@ -70,6 +70,7 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 
 ###  👨‍💻  **Check Out My Projects**
 - [Discover My Work](https://sites.google.com/view/gmostofabd/projects/)
+-  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
 
 <br/>
 <hr/>
@@ -80,13 +81,6 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 - **YouTube & Blogs**: Educational content and discussions on various technical subjects.
 - **STEAM Education**: Leading Technocraphy BD to inspire young minds with hands-on learning. At Technocraphy BD, we focus on promoting STEAM (Science, Technology, Engineering, Arts, and Mathematics) education across Bangladesh. We provide engaging, hands-on learning experiences in robotics, IoT, and other technological fields, aiming to spark curiosity and foster skills in the next generation of innovators.
 - **melab BD**: At melab BD, we specialize in the design, development, and consultancy of Embedded Systems, Robotics, IoT solutions, and Industrial Automation. We also offer comprehensive training in microcontroller programming, PCB design, and more, helping clients and students alike achieve their engineering goals.
-
-<br/>
-<hr/>
-<br/>
-
-###  👨‍💻  **All of my projects are available at**:
--  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
 
 <br/>
 <hr/>
