@@ -83,6 +83,7 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 </p>
 <br/>
 <hr/>
+
 ###  🧰  **Frameworks and libraries**:
 <p>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -94,6 +95,7 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 </p>
 <br/>
 <hr/>
+
 ###  🗄️  **Databases and Cloud Hosting**:
 
 <p>
@@ -103,6 +105,7 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 </p>
 <br/>
 <hr/>
+
 ###  💻  **Software and tools**:
 
 <p>
