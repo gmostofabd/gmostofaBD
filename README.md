@@ -17,22 +17,16 @@ I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engine
 -  **Electronics & Programming**: My expertise spans electronic circuit analysis, microcontroller programming, and industrial automation. I integrate these technologies into practical and educational projects, enhancing both learning and real-world applications.
 -  **Web & App Development**: I excel in front-end development, Android app creation, and web design, creating dynamic and user-friendly applications and interfaces.
 
-
-### 🔭 **What I Do**
-- **Embedded Systems & IoT**: Designing and developing custom solutions, PCB designs, and robotics. At melab BD, I lead initiatives in embedded system design, IoT solutions, and industrial automation, offering consultancy and training in microcontroller programming and PCB design.
-- **Electronics & Programming**: Expertise in electronic circuit analysis, microcontroller programming, and industrial automation. My work integrates these technologies into practical and educational projects.
-- **Web & App Development**: Skilled in front-end development, Android app creation, and web design. I use my skills to develop user-friendly applications and interactive web interfaces.
-
 ### 🌱 **Currently Exploring**
 - **Python, Machine Learning, & AI**: Delving into advanced algorithms and intelligent systems to stay at the forefront of technological advancements.
 - **VLSI Designing**: Designing intricate integrated circuits to push the boundaries of hardware capabilities.
 
 ### 👯 **Let’s Collaborate On**
-- **Embedded Designs**: Crafting tailored solutions for diverse applications, including industrial and consumer electronics.
-- **Robotics**: Innovating and building the robots of tomorrow, leveraging my expertise in robotics and automation.
+- **Embedded Designs**: Developing customized solutions for diverse applications, from industrial to consumer electronics.
+- **Robotics**: Building innovative robots and systems, leveraging my expertise in automation and robotics.
 
 ### 💬 **Feel Free to Ask Me About**
-- **Electronics, Microcontrollers, Arduino, IoT, Robotics, and STEAM Education**: I’m here to share insights and knowledge on these topics.
+- **Electronics, Microcontrollers, Arduino, IoT, Robotics, and STEAM Education**: I’m here to offer insights and knowledge on these exciting topics.
 
 ### 🛠️ **My Favourite Tools**
 - **Programming Languages**: C, C++, CSS, HTML, JavaScript, Python, SQL
@@ -46,9 +40,9 @@ I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engine
 - [YouTube](https://www.youtube.com/channel/your-channel)
 - [Twitter](https://twitter.com/your-profile)
 - [Fiverr](https://www.fiverr.com/melab_bd)
-- Email: mostofa.melab@gmail.com
 - [Personal Website](https://sites.google.com/view/gmostofabd)
 - [Google Dev](https://g.dev/gmostofabd)
+- [Gmail] mostofa.melab@gmail.com
 
 ### 📚 **Featured Publication**
 - **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
