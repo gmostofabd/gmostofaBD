@@ -8,62 +8,50 @@
 
 <hr>
 ---
-## Hi There! I'm Golam Mostofa 👋
 
+Hi There! I'm Golam Mostofa 👋
 I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engineering (EEE) department at the Islamic University of Technology (IUT) in Gazipur, Bangladesh. With a background in technology research and international conference experience, I love diving into hands-on projects and exploring innovative solutions.
 
-### 🔭 **What I Do**
-- **Embedded Systems & IoT**: Designing and developing custom solutions, PCB designs, and robotics. At melab BD, I lead initiatives in embedded system design, IoT solutions, and industrial automation, offering consultancy and training in microcontroller programming and PCB design.
-- **Electronics & Programming**: Expertise in electronic circuit analysis, microcontroller programming, and industrial automation. My work integrates these technologies into practical and educational projects.
-- **Web & App Development**: Skilled in front-end development, Android app creation, and web design. I use my skills to develop user-friendly applications and interactive web interfaces.
-
-### 🌱 **Currently Exploring**
-- **Python, Machine Learning, & AI**: Delving into advanced algorithms and intelligent systems to stay at the forefront of technological advancements.
-- **VLSI Designing**: Designing intricate integrated circuits to push the boundaries of hardware capabilities.
-
-### 👯 **Let’s Collaborate On**
-- **Embedded Designs**: Crafting tailored solutions for diverse applications, including industrial and consumer electronics.
-- **Robotics**: Innovating and building the robots of tomorrow, leveraging my expertise in robotics and automation.
-
-### 💬 **Feel Free to Ask Me About**
-- **Electronics, Microcontrollers, Arduino, IoT, Robotics, and STEAM Education**: I’m here to share insights and knowledge on these topics.
-
-### 🛠️ **My Favourite Tools**
-- **Programming Languages**: C, C++, CSS, HTML, JavaScript, Python, SQL
-- **Frameworks and Libraries**: Arduino, Python, Blogger, Fiverr, Illustrator
-- **Databases and Cloud Hosting**: GitHub Pages, MySQL
-- **Software and Tools**: Codepen, Git, Illustrator, OBS Studio, Stack Overflow, Visual Studio Code
-
-### 📫 **Connect with Me**
-- [GitHub](https://github.com/your-profile)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [YouTube](https://www.youtube.com/channel/your-channel)
-- [Twitter](https://twitter.com/your-profile)
-- [Fiverr](https://www.fiverr.com/melab_bd)
-- Email: mostofa.melab@gmail.com
-- [Personal Website](https://sites.google.com/view/gmostofabd)
-- [Google Dev](https://g.dev/gmostofabd)
-
-### 📚 **Featured Publication**
-- **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
-- **Publisher:** IEEE
-- [Explore the Publication](https://ieeexplore.ieee.org/document/10212960)
-
-### 👨‍💻 **Check Out My Projects**
-- [Discover My Work](https://sites.google.com/view/gmostofabd/projects/)
-
-### 🐍 **My Contributions**
-- **GitHub Tutorials**: Extensive tutorials on Embedded Systems, Robotics, and more.
-- **YouTube & Blogs**: Educational content and discussions on various technical subjects.
-- **STEAM Education**: Leading Technocraphy BD to inspire young minds with hands-on learning. At Technocraphy BD, we focus on promoting STEAM (Science, Technology, Engineering, Arts, and Mathematics) education across Bangladesh. We provide engaging, hands-on learning experiences in robotics, IoT, and other technological fields, aiming to spark curiosity and foster skills in the next generation of innovators.
-- **melab BD**: At melab BD, we specialize in the design, development, and consultancy of Embedded Systems, Robotics, IoT solutions, and Industrial Automation. We also offer comprehensive training in microcontroller programming, PCB design, and more, helping clients and students alike achieve their engineering goals.
-
-### 🔝 **All Repositories**
-- [Top Open Source Projects](https://github.com/your-profile?tab=repositories)
-
+🔭 What I Do
+Embedded Systems & IoT: Designing and developing custom solutions, PCB designs, and robotics. At melab BD, I lead initiatives in embedded system design, IoT solutions, and industrial automation, offering consultancy and training in microcontroller programming and PCB design.
+Electronics & Programming: Expertise in electronic circuit analysis, microcontroller programming, and industrial automation. My work integrates these technologies into practical and educational projects.
+Web & App Development: Skilled in front-end development, Android app creation, and web design. I use my skills to develop user-friendly applications and interactive web interfaces.
+🌱 Currently Exploring
+Python, Machine Learning, & AI: Delving into advanced algorithms and intelligent systems to stay at the forefront of technological advancements.
+VLSI Designing: Designing intricate integrated circuits to push the boundaries of hardware capabilities.
+👯 Let’s Collaborate On
+Embedded Designs: Crafting tailored solutions for diverse applications, including industrial and consumer electronics.
+Robotics: Innovating and building the robots of tomorrow, leveraging my expertise in robotics and automation.
+💬 Feel Free to Ask Me About
+Electronics, Microcontrollers, Arduino, IoT, Robotics, and STEAM Education: I’m here to share insights and knowledge on these topics.
+🛠️ My Favourite Tools
+Programming Languages: C, C++, CSS, HTML, JavaScript, Python, SQL
+Frameworks and Libraries: Arduino, Python, Blogger, Fiverr, Illustrator
+Databases and Cloud Hosting: GitHub Pages, MySQL
+Software and Tools: Codepen, Git, Illustrator, OBS Studio, Stack Overflow, Visual Studio Code
+📫 Connect with Me
+GitHub
+LinkedIn
+YouTube
+Twitter
+Fiverr
+Email: mostofa.melab@gmail.com
+Personal Website
+Google Dev
+📚 Featured Publication
+Title: Design and Development of an Efficient IoT-based Egg Incubation System
+Publisher: IEEE
+Explore the Publication
+👨‍💻 Check Out My Projects
+Discover My Work
+🐍 My Contributions
+GitHub Tutorials: Extensive tutorials on Embedded Systems, Robotics, and more.
+YouTube & Blogs: Educational content and discussions on various technical subjects.
+STEAM Education: Leading Technocraphy BD to inspire young minds with hands-on learning. At Technocraphy BD, we focus on promoting STEAM (Science, Technology, Engineering, Arts, and Mathematics) education across Bangladesh. We provide engaging, hands-on learning experiences in robotics, IoT, and other technological fields, aiming to spark curiosity and foster skills in the next generation of innovators.
+melab BD: At melab BD, we specialize in the design, development, and consultancy of Embedded Systems, Robotics, IoT solutions, and Industrial Automation. We also offer comprehensive training in microcontroller programming, PCB design, and more, helping clients and students alike achieve their engineering goals.
+🔝 All Repositories
+Top Open Source Projects
 Feel free to explore my repositories and projects, and let’s connect if you share similar interests or have any questions!
-
-
 
 ## 👨‍💻 All of my projects are available at:
 -  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
