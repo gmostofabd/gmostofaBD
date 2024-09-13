@@ -44,7 +44,7 @@ I'm a passionate Sub-Divisional Engineer in the Electrical and Electronic Engine
 - [Google Dev](https://g.dev/gmostofabd)
 - [Gmail] mostofa.melab@gmail.com
 
-📫 How to Reach Me:
+###  📫  **How to Reach Me**:
 
 Email: mostofa.melab@gmail.com
 
@@ -54,7 +54,7 @@ Email: mostofa.melab@gmail.com
 - **Publisher:** IEEE
 - [Explore the Publication](https://ieeexplore.ieee.org/document/10212960)
 
-### 👨‍💻 **Check Out My Projects**
+###  👨‍💻  **Check Out My Projects**
 - [Discover My Work](https://sites.google.com/view/gmostofabd/projects/)
 
 ### 🐍 **My Contributions**
@@ -70,7 +70,7 @@ Email: mostofa.melab@gmail.com
 Feel free to explore my repositories and projects, and let’s connect if you share similar interests or have any questions!
 ---
 
-## 👨‍💻 All of my projects are available at:
+###  👨‍💻  All of my projects are available at:
 -  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
 <br/>
 <hr/>
@@ -87,7 +87,7 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 </p>
 <br/>
 <hr/>
-### 🧰 Frameworks and libraries
+###  🧰  **Frameworks and libraries**:
 <p>
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"></a>
@@ -98,7 +98,7 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 </p>
 <br/>
 <hr/>
-### 🗄️ Databases and Cloud Hosting
+###  🗄️  **Databases and Cloud Hosting**:
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -107,7 +107,7 @@ Feel free to explore my repositories and projects, and let’s connect if you sh
 </p>
 <br/>
 <hr/>
-### 💻 Software and tools
+###  💻  **Software and tools**:
 
 <p>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
