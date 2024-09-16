@@ -92,6 +92,30 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 
 
 
+## 🌟 Popular Repositories
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px; background-color: #f9f9f9;">
+  <h3><a href="https://github.com/yourusername/8051-microcontroller-tutorials" style="text-decoration: none; color: #0366d6;">8051 Microcontroller Tutorials</a></h3>
+  <p>A collection of tutorials on ATMEL 8051 microcontroller programming using MIDE-51 and Proteus. Includes examples for basic interfacing, ADC, and more. 💻⚡</p>
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px; background-color: #f9f9f9;">
+  <h3><a href="https://github.com/melabbd" style="text-decoration: none; color: #0366d6;">melab BD</a></h3>
+  <p>Dedicated to the design, development, learning, and sharing of knowledge in electronics, microcontroller technology, Embedded Systems, Robotics, IoT solutions, and Industrial Automation. 🤖🔧</p>
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px; background-color: #f9f9f9;">
+  <h3><a href="https://github.com/technocraphybd" style="text-decoration: none; color: #0366d6;">Technocraphy BD</a></h3>
+  <p>Promotes STEAM education in Bangladesh with engaging learning experiences in robotics, IoT, and technology. 🚀🎓</p>
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 16px; background-color: #f9f9f9;">
+  <h3><a href="https://github.com/yourusername/your-other-repo" style="text-decoration: none; color: #0366d6;">Your Other Popular Repo</a></h3>
+  <p>Brief description of what this repository is about and why it's popular. 🌟</p>
+</div>
+
+
+
 <br/>
 <hr/>
 <br/>
