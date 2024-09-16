@@ -71,22 +71,28 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 
 
 
-
 ## 🌟 Popular Repositories
 
 ---
-### ![Background Image](https://yourimagehosting.com/background1.png)
 ### :computer: [**8051 Microcontroller Tutorials**](https://github.com/yourusername/8051-microcontroller-tutorials)
 
 A collection of tutorials on ATMEL 8051 microcontroller programming using MIDE-51 and Proteus. Includes examples for basic interfacing, ADC, and more. 💻⚡
 
 ---
 
-### :gear: [**melab BD**](https://github.com/melabbd)
+### :gear: [**Arduino Pure Sine Wave Generator**](https://gmostofabd.github.io/Arduino-SPWM-and-Pure-Sine-Wave/)
 
-Dedicated to the design, development, learning, and sharing of knowledge in electronics, microcontroller technology, Embedded Systems, Robotics, IoT solutions, and Industrial Automation. 🤖🔧
+Examples (Collected) for Arduino SPWM and Pure Sine Wave Generation These examples are tested on Proteus simulator. To get a minimum inverter facilities from this practice we have added a mosfet driver part and a transformer as well. 🤖🔧
 
 ---
+
+### :star: [**Add New Libraries to Proteus**](https://gmostofabd.github.io/Proteus-Libraries/)
+
+A collection of **Proteus Simulation Models**, **PCB Footprints**, and **3D Models** for common devices not included in the default software. Enhance your design with essential components and improve your simulation accuracy. 🌟
+
+---
+
+
 
 ### :rocket: [**Technocraphy BD**](https://github.com/technocraphybd)
 
@@ -94,11 +100,7 @@ Promotes STEAM education in Bangladesh with engaging learning experiences in rob
 
 ---
 
-### :star: [**Your Other Popular Repo**](https://github.com/yourusername/your-other-repo)
-
-Brief description of what this repository is about and why it's popular. 🌟
-
----
+<br/>
 
 
 <br/>
