@@ -68,6 +68,30 @@ I'm a passionate Electronic Engineer at an Engineering University in Bangladesh.
 <hr/>
 <br/>
 
+## 🌟 Popular Repositories
+
+Here are some of my most popular repositories:
+
+### [**8051 Microcontroller Tutorials**](https://github.com/yourusername/8051-microcontroller-tutorials)
+A collection of tutorials on ATMEL 8051 microcontroller programming using MIDE-51 and Proteus. Includes examples for basic interfacing, ADC, and more. 💻⚡
+
+### [**melab BD**](https://github.com/melabbd)
+Dedicated to the design, development, learning, and sharing of knowledge in electronics, microcontroller technology, Embedded Systems, Robotics, IoT solutions, and Industrial Automation. 🤖🔧
+
+### [**Technocraphy BD**](https://github.com/technocraphybd)
+Promotes STEAM education in Bangladesh with engaging learning experiences in robotics, IoT, and technology. 🚀🎓
+
+### [**Your Other Popular Repo**](https://github.com/yourusername/your-other-repo)
+Brief description of what this repository is about and why it's popular. 🌟
+
+
+
+<br/>
+<hr/>
+<br/>
+
+
+
 ###  👨‍💻  **Check Out My Projects**
 - [Discover My Work](https://sites.google.com/view/gmostofabd/projects/)
 -  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
