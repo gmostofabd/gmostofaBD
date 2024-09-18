@@ -8,7 +8,8 @@
 
 # Hi There! I'm gmostofaBD 👋
 ---
-I'm a passionate Electronic Engineer at an Engineering University in Bangladesh. With a background in technology research and international conference experience, I love diving into hands-on projects and exploring innovative solutions.
+Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 20 years of experience in the technology sector and research, currently serving as a full-time instructor at an Engineering University in Bangladesh. With a solid background in Electronics Engineering and Computer Science and Engineering, I thrive on diving into hands-on projects and exploring innovative solutions. Explore my repositories to find work on microcontroller programming, IoT solutions, robotics, and more, showcasing how I blend extensive expertise with cutting-edge technology.
+
 <br/><br/>
 
 ### 🔭 **What I Do**
