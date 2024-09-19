@@ -103,7 +103,9 @@ Promotes STEAM education in Bangladesh with engaging learning experiences in rob
 
 <br/>
 
+###  My Attachments:
 
+**Engineer [@IUT](https://www.iutoic-dhaka.edu/) | Designer @melabBD | Educator @TechnocraphyBD**
 <br/>
 <hr/>
 <br/>
