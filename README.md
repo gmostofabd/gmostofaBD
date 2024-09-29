@@ -52,19 +52,6 @@ Let’s connect and explore the exciting innovations in **_Electronics_**, **_Ar
 <hr/>
 <br/>
 
-### 📫 **Connect with Me**
-- [GitHub](https://github.com/your-profile)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [YouTube](https://www.youtube.com/channel/your-channel)
-- [Twitter](https://twitter.com/your-profile)
-- [Fiverr](https://www.fiverr.com/melab_bd)
-- [Personal Website](https://sites.google.com/view/gmostofabd)
-- [Google Dev](https://g.dev/gmostofabd)
-- Email: mostofa.melab@gmail.com
-
-<br/>
-<hr/>
-<br/>
 
 ### 📚 **Featured Publication**
 - **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
@@ -135,6 +122,35 @@ Promotes STEAM education in Bangladesh with engaging learning experiences in rob
 <br/>
 <hr/>
 <br/>
+
+
+
+
+
+## Connect with me:
+
+<p align="center">
+  <a href="https://github.com/gmostofabd" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gmostofabd" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/gmostofabd" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://gmostofabd.com" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+
+
+<br/>
+<hr/>
+<br/>
+
+
 
 <p align="center">
   
