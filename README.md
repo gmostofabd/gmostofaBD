@@ -8,7 +8,13 @@
 
 # Hi There! I'm gmostofaBD 👋
 ---
-Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 20 years of experience in the technology sector and research, currently serving as a full-time instructor at an Engineering University in Bangladesh. With a solid background in Electronics Engineering and Computer Science and Engineering, I thrive on diving into hands-on projects and exploring innovative solutions. Explore my repositories to find work on microcontroller programming, IoT solutions, robotics, and more, showcasing how I blend extensive expertise with cutting-edge technology.
+
+Welcome to my GitHub profile! I am an **_Electronics Engineer_** with over **20 years of experience** in the **technology** and **research** sectors. Currently, I serve at an **Engineering University in Bangladesh**. My expertise spans **_Electronics Engineering_**, **_Computer Science and Engineering_**, and hands-on **project development**. I have a deep passion for **_microcontroller programming_**, **_IoT solutions_**, **_robotics_**, **_Arduino_**, and **_Proteus simulation_**.
+
+Feel free to explore my repositories, where I blend extensive experience with **cutting-edge technology**, including projects on **[8051 Assembly Programming](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)**, **[IoT systems](https://github.com/gmostofabd)**, **[Arduino projects](https://github.com/gmostofabd?tab=repositories&q=arduino)**, and **[Proteus simulations](https://github.com/gmostofabd?tab=repositories&q=proteus)**. You'll also find work related to **_PCB design_**, **_embedded systems_**, and advanced **_programming_** techniques. 
+
+Let’s connect and explore the exciting innovations in **_Electronics_**, **_Arduino_**, **_Proteus_**, **_IoT_**, **_Clouds_**, **_Robotics_**, and **_Embedded Systems_**!
+
 
 <br/><br/>
 
