@@ -20,23 +20,22 @@ Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 
 <img src="https://github.com/user-attachments/assets/d7ca81bc-1144-4947-89d8-4edb0b194278" alt="gmostofabd Portfolliow" width="60%" style="border-radius: 8px;">
 </div>
 
--  **Embedded Systems & IoT**: I specialize in crafting custom solutions, including PCB designs and robotics. At melab BD, I drive the design and development of embedded systems and IoT solutions, providing consultancy and training to both clients and students.
--  **Electronics & Programming**: My expertise spans electronic circuit analysis, microcontroller programming, and industrial automation. I integrate these technologies into practical and educational projects, enhancing both learning and real-world applications.
--  **Web & App Development**: I excel in front-end development, Android app creation, and web design, creating dynamic and user-friendly applications and interfaces.
+<hr/>
 
-<br/>
+<br>
+
 
 ### 🌱 **Currently Exploring**
 - **Python, Machine Learning, & AI**: Delving into advanced algorithms and intelligent systems to stay at the forefront of technological advancements.
 - **VLSI Designing**: Designing intricate integrated circuits to push the boundaries of hardware capabilities.
 
-<br/>
+<br>
 
 ### 👯 **Let’s Collaborate On**
 - **Embedded Designs**: Developing customized solutions for diverse applications, from industrial to consumer electronics.
 - **Robotics**: Building innovative robots and systems, leveraging my expertise in automation and robotics.
 
-<br/>
+<br>
 
 ### 🛠️ **My Favourite Tools**
 - **Programming Languages**: C, C++, CSS, HTML, JavaScript, Python, SQL
@@ -44,14 +43,14 @@ Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 
 - **Databases and Cloud Hosting**: GitHub Pages, MySQL
 - **Software and Tools**: Codepen, Git, Illustrator, OBS Studio, Stack Overflow, Visual Studio Code
 
-<br/>
+<br>
 
 ### 💬 **Feel Free to Ask Me About**
 - **Electronics, Microcontrollers, Arduino, IoT, Robotics, and STEAM Education**: I’m here to offer insights and knowledge on these exciting topics.
 
-<br/>
+<br>
 <hr/>
-<br/>
+<br>
 
 ### 📫 **Connect with Me**
 - [GitHub](https://github.com/your-profile)
@@ -63,18 +62,18 @@ Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 
 - [Google Dev](https://g.dev/gmostofabd)
 - Email: mostofa.melab@gmail.com
 
-<br/>
+<br>
 <hr/>
-<br/>
+<br>
 
 ### 📚 **Featured Publication**
 - **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
 - **Publisher:** IEEE
 - [Explore the Publication](https://ieeexplore.ieee.org/document/10212960)
 
-<br/>
+<br>
 <hr/>
-<br/>
+<br>
 
 
 
@@ -108,14 +107,14 @@ Promotes STEAM education in Bangladesh with engaging learning experiences in rob
 
 ---
 
-<br/>
+<br>
 
 ###  My Attachments:
 
 **Engineer [@IUT](https://www.iutoic-dhaka.edu/) | Designer @melabBD | Educator @TechnocraphyBD**
-<br/>
+<br>
 <hr/>
-<br/>
+<br>
 
 
 
@@ -123,9 +122,9 @@ Promotes STEAM education in Bangladesh with engaging learning experiences in rob
 - [Discover My Work](https://sites.google.com/view/gmostofabd/projects/)
 -  [https://sites.google.com/view/gmostofabd/projects/](https://sites.google.com/view/gmostofabd/projects?authuser=0)
 
-<br/>
+<br>
 <hr/>
-<br/>
+<br>
 
 ### 🐍 **My Contributions**
 - **GitHub Tutorials**: Extensive tutorials on Embedded Systems, Robotics, and more.
@@ -133,9 +132,9 @@ Promotes STEAM education in Bangladesh with engaging learning experiences in rob
 - **STEAM Education**: Leading Technocraphy BD to inspire young minds with hands-on learning. At Technocraphy BD, we focus on promoting STEAM (Science, Technology, Engineering, Arts, and Mathematics) education across Bangladesh. We provide engaging, hands-on learning experiences in robotics, IoT, and other technological fields, aiming to spark curiosity and foster skills in the next generation of innovators.
 - **melab BD**: At melab BD, we specialize in the design, development, and consultancy of Embedded Systems, Robotics, IoT solutions, and Industrial Automation. We also offer comprehensive training in microcontroller programming, PCB design, and more, helping clients and students alike achieve their engineering goals.
 
-<br/>
+<br>
 <hr/>
-<br/>
+<br>
 
 <p align="center">
   
