@@ -137,15 +137,16 @@ Promotes STEAM education in Bangladesh with engaging learning experiences in rob
 <hr/>
 <br>
 
+
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;"/>
 <p align="center">
   
 <a href="https://github.com/gmostofabd?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
 </p>
 
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
-
-<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
-
+---
 
 <p align="center"> © 2021 gmostofaBD, all rights reserved.</p>
