@@ -14,8 +14,9 @@ Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 
 
 ### 🔭 **What I Do**
 
-![gmostofaBD_SklBan_7 1](https://github.com/user-attachments/assets/d7ca81bc-1144-4947-89d8-4edb0b194278)
-
+<div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
+<img src="https://github.com/user-attachments/assets/d7ca81bc-1144-4947-89d8-4edb0b194278" alt="Learn how to build mobile apps using App Inventor" width="90%" style="border-radius: 8px;">
+</div>
 
 -  **Embedded Systems & IoT**: I specialize in crafting custom solutions, including PCB designs and robotics. At melab BD, I drive the design and development of embedded systems and IoT solutions, providing consultancy and training to both clients and students.
 -  **Electronics & Programming**: My expertise spans electronic circuit analysis, microcontroller programming, and industrial automation. I integrate these technologies into practical and educational projects, enhancing both learning and real-world applications.
