@@ -10,9 +10,11 @@
 ---
 Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 20 years of experience in the technology sector and research, currently serving as a full-time instructor at an Engineering University in Bangladesh. With a solid background in Electronics Engineering and Computer Science and Engineering, I thrive on diving into hands-on projects and exploring innovative solutions. Explore my repositories to find work on microcontroller programming, IoT solutions, robotics, and more, showcasing how I blend extensive expertise with cutting-edge technology.
 
-<br/><br/>
+<br><br>
 
-### 🔭 **What I Do**
+<hr/>
+
+<br>
 
 <div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 80%; margin: auto;">
 <img src="https://github.com/user-attachments/assets/d7ca81bc-1144-4947-89d8-4edb0b194278" alt="gmostofabd Portfolliow" width="60%" style="border-radius: 8px;">
