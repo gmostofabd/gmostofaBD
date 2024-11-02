@@ -81,6 +81,7 @@ Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 
 ## 🌟 Popular Repositories
 
 ---
+
 ### :computer: [**8051 Microcontroller Tutorials**](https://github.com/yourusername/8051-microcontroller-tutorials)
 
 A collection of tutorials on ATMEL 8051 microcontroller programming using MIDE-51 and Proteus. Includes examples for basic interfacing, ADC, and more. 💻⚡
@@ -142,6 +143,9 @@ Promotes STEAM education in Bangladesh with engaging learning experiences in rob
 
 </p>
 
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 
 <p align="center"> © 2021 gmostofaBD, all rights reserved.</p>
