@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 
 
 ### 🔭 **What I Do**
 
-<div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 90%; margin: auto;">
-<img src="https://github.com/user-attachments/assets/d7ca81bc-1144-4947-89d8-4edb0b194278" alt="Learn how to build mobile apps using App Inventor" width="90%" style="border-radius: 8px;">
+<div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 80%; margin: auto;">
+<img src="https://github.com/user-attachments/assets/d7ca81bc-1144-4947-89d8-4edb0b194278" alt="gmostofabd Portfolliow" width="70%" style="border-radius: 8px;">
 </div>
 
 -  **Embedded Systems & IoT**: I specialize in crafting custom solutions, including PCB designs and robotics. At melab BD, I drive the design and development of embedded systems and IoT solutions, providing consultancy and training to both clients and students.
