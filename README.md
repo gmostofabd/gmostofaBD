@@ -6,9 +6,11 @@
 
 <hr/>
 
-# Hi There! I'm gmostofaBD 👋
+# Hi There! I'm Golam Mostofa 👋
 ---
-Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 20 years of experience in the technology sector and research, currently serving at an Engineering University in Bangladesh. With a solid background in Electronics Engineering and Computer Science and Engineering, I thrive on diving into hands-on projects and exploring innovative solutions. Explore my repositories to find work on microcontroller programming, IoT solutions, robotics, and more, showcasing how I blend extensive expertise with cutting-edge technology.
+Welcome to my GitHub profile! 
+<br>
+I’m a passionate Electronics Engineer with over 20 years of experience in the technology sector and research, currently serving at an Engineering University in Bangladesh. With a solid background in Electronics Engineering and Computer Science and Engineering, I thrive on diving into hands-on projects and exploring innovative solutions. Explore my repositories to find work on microcontroller programming, IoT solutions, robotics, and more, showcasing how I blend extensive expertise with cutting-edge technology.
 
 <br><br>
 
@@ -27,21 +29,22 @@ Welcome to my GitHub profile! I’m a passionate Electronics Engineer with over 
 
 ### 🌱 **Currently Exploring**
 - **Python, Machine Learning, & AI**: Delving into advanced algorithms and intelligent systems to stay at the forefront of technological advancements.
-- **VLSI Designing**: Designing intricate integrated circuits to push the boundaries of hardware capabilities.
-
+- **Learning Kits Designing**: Designing Hardwares and Kits for learners using minimum accessories and a low cost available solution.
+- **STEAM Education**: Designing some "Teaching Learning Tools" for Kids STEAM Education in developing countries.
 <br>
 
 ### 👯 **Let’s Collaborate On**
 - **Embedded Designs**: Developing customized solutions for diverse applications, from industrial to consumer electronics.
 - **Robotics**: Building innovative robots and systems, leveraging my expertise in automation and robotics.
+- **STEAM Education**: Innovative ideas for developing STEAM lesson Tools.
 
 <br>
 
 ### 🛠️ **My Favourite Tools**
-- **Programming Languages**: C, C++, CSS, HTML, JavaScript, Python, SQL
-- **Frameworks and Libraries**: Arduino, Python, Blogger, Fiverr, Illustrator
-- **Databases and Cloud Hosting**: GitHub Pages, MySQL
-- **Software and Tools**: Codepen, Git, Illustrator, OBS Studio, Stack Overflow, Visual Studio Code
+- **Programming Languages**: Assembly. C, C++, CSS, HTML, JavaScript, Python, VB, SQL
+- **Frameworks and Libraries**: Arduino, Python, Proteus, Fiverr, Illustrator
+- **Databases and Cloud Hosting**: FireBase, MySQL
+- **Software and Tools**: Codepen, Git, Illustrator, OBS Studio, Pictoblox, Arduino, Python, Visual Studio Code
 
 <br>
 
