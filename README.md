@@ -6,7 +6,7 @@
 
 <hr/>
 
-# Hi There! I'm Golam Mostofa 👋
+#Golam Mostofa (@gmostofaBD)👋
 ---
 Welcome to my GitHub profile! 
 <br>
