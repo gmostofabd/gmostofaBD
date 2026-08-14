@@ -6,94 +6,379 @@
 
 <hr/>
 
-#Golam Mostofa (@gmostofaBD)👋
----
-Welcome to my GitHub profile! 
-<br>
-I’m a passionate Electronics Engineer with over 20 years of experience in the technology sector and research, currently serving at an Engineering University in Bangladesh. With a solid background in Electronics Engineering and Computer Science and Engineering, I thrive on diving into hands-on projects and exploring innovative solutions. Explore my repositories to find work on microcontroller programming, IoT solutions, robotics, and more, showcasing how I blend extensive expertise with cutting-edge technology.
 
-<br><br>
+<div align="center">
 
-<hr/>
+# Golam Mostofa
 
-<br>
+### `gmostofaBD` · Electronics · Embedded Systems · IoT · Open Hardware · STEAM Education
 
-<div align="center" style="border: 2px solid #ddd; padding: 10px; border-radius: 10px; background-color: #f9f9f9; width: 80%; margin: auto;">
-<img src="https://github.com/user-attachments/assets/d7ca81bc-1144-4947-89d8-4edb0b194278" alt="gmostofabd Portfolliow" width="60%" style="border-radius: 8px;">
+<img src="./assets/gmostofaBD-profile-banner.png" alt="Golam Mostofa — Electronics, Embedded Systems, IoT and Open Hardware" width="100%">
+
 </div>
 
-<hr/>
+---
 
-<br>
+## 👋 About Me
 
+I am **Golam Mostofa (`gmostofaBD`)**, an electronics and embedded-systems professional working across **microcontrollers, IoT, PCB design, automation, open hardware, robotics and engineering education**.
 
-### 🌱 **Currently Exploring**
-- **Python, Machine Learning, & AI**: Delving into advanced algorithms and intelligent systems to stay at the forefront of technological advancements.
-- **Learning Kits Designing**: Designing Hardwares and Kits for learners using minimum accessories and a low cost available solution.
-- **STEAM Education**: Designing some "Teaching Learning Tools" for Kids STEAM Education in developing countries.
-<br>
+My work connects traditional embedded platforms such as **8051, AVR and PIC** with modern **Arduino, ESP8266 and ESP32** systems.
 
-### 👯 **Let’s Collaborate On**
-- **Embedded Designs**: Developing customized solutions for diverse applications, from industrial to consumer electronics.
-- **Robotics**: Building innovative robots and systems, leveraging my expertise in automation and robotics.
-- **STEAM Education**: Innovative ideas for developing STEAM lesson Tools.
+I enjoy taking an idea from:
 
-<br>
+**Concept → Circuit → Firmware → Connected System → Dashboard → Real-World Application**
 
-### 🛠️ **My Favourite Tools**
-- **Programming Languages**: Assembly. C, C++, CSS, HTML, JavaScript, Python, VB, SQL
-- **Frameworks and Libraries**: Arduino, Python, Proteus, Fiverr, Illustrator
-- **Databases and Cloud Hosting**: FireBase, MySQL
-- **Software and Tools**: Codepen, Git, Illustrator, OBS Studio, Pictoblox, Arduino, Python, Visual Studio Code
-
-<br>
-
-### 💬 **Feel Free to Ask Me About**
-- **Electronics, Microcontrollers, Arduino, IoT, Robotics, and STEAM Education**: I’m here to offer insights and knowledge on these exciting topics.
-
-<br>
-<hr/>
-<br>
-
-### 📫 **Connect with Me**
-- [GitHub](https://github.com/your-profile)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [YouTube](https://www.youtube.com/channel/your-channel)
-- [Twitter](https://twitter.com/your-profile)
-- [Fiverr](https://www.fiverr.com/melab_bd)
-- [Personal Website](https://sites.google.com/view/gmostofabd)
-- [Google Dev](https://g.dev/gmostofabd)
-- Email: mostofa.melab@gmail.com
-
-<br>
-<hr/>
-<br>
-
-### 📚 **Featured Publication**
-- **Title:** *Design and Development of an Efficient IoT-based Egg Incubation System*
-- **Publisher:** IEEE
-- [Explore the Publication](https://ieeexplore.ieee.org/document/10212960)
-
-<br>
-<hr/>
-<br>
-
-
-
-
-## 🌟 Popular Repositories
+> **Build practical systems. Document the knowledge. Open the technology. Educate the next generation.**
 
 ---
 
-### :computer: [**8051 Microcontroller Tutorials**](https://github.com/yourusername/8051-microcontroller-tutorials)
+## 🧭 My Competency Map
 
-A collection of tutorials on ATMEL 8051 microcontroller programming using MIDE-51 and Proteus. Includes examples for basic interfacing, ADC, and more. 💻⚡
+| Area | Competencies |
+|---|---|
+| 🔌 **Embedded Systems** | C/C++, firmware, microcontrollers, peripherals, real-time systems |
+| 🧠 **Microcontrollers** | 8051, AVR, PIC, Arduino, ESP8266, ESP32 |
+| 🌐 **IoT & Connectivity** | MQTT, REST APIs, JSON, web servers, OTA, dashboards |
+| ⚡ **Electronics** | Sensors, actuators, analog/digital electronics, instrumentation |
+| 🧩 **PCB & Hardware** | Schematics, PCB design, prototyping, open hardware |
+| 🤖 **Automation & Robotics** | Control systems, motors, sensors, automation |
+| ☀️ **Energy Systems** | Solar power, battery monitoring, energy management |
+| 🌱 **Smart Agriculture** | Aquaponics, hydroponics, irrigation, environmental monitoring |
+| 🧪 **Simulation** | Proteus, embedded-system simulation and testing |
+| 🎓 **Education** | STEM/STEAM, practical electronics, embedded-system learning |
+| 🌍 **Open Source** | Reusable firmware, hardware resources, documentation and collaboration |
 
 ---
 
-### :gear: [**Arduino Pure Sine Wave Generator**](https://gmostofabd.github.io/Arduino-SPWM-and-Pure-Sine-Wave/)
+# 🚀 Flagship Projects
 
-Examples (Collected) for Arduino SPWM and Pure Sine Wave Generation These examples are tested on Proteus simulator. To get a minimum inverter facilities from this practice we have added a mosfet driver part and a transformer as well. 🤖🔧
+## 🌱 SPSAS — Solar Powered Smart Aquaponic System
+
+A solar-powered embedded IoT platform for **aquaponics, hydroponics, smart agriculture and energy-aware automation**.
+
+### System Capabilities
+
+- 🌡️ Environmental monitoring
+- 💧 Water-quality monitoring
+- 🐟 Fish-tank monitoring
+- 🌱 Hydroponic monitoring
+- 🚿 Irrigation automation
+- ☀️ Solar-energy monitoring
+- 🔋 Battery and power management
+- 📡 Distributed controller architecture
+- 🌐 ESP32 embedded web server
+- 📊 Real-time dashboard
+- 🔄 OTA firmware updates
+- 🔌 REST/JSON communication
+
+**Technology:**  
+`ESP32` `Arduino` `I²C` `UART` `Sensors` `JSON` `Web Server` `OTA` `IoT` `Solar Energy`
+
+👉 **Explore:** [GitHub Projects](https://github.com/gmostofabd)
+
+---
+
+## 🧩 OpenIoT Framework
+
+A modular embedded-IoT architecture focused on building **reusable, maintainable and scalable firmware** instead of isolated sketches.
+
+### Architectural Focus
+
+```text
+Application
+    │
+    ▼
+IoT / Web / API
+    │
+    ▼
+Services & Managers
+    │
+    ├── Sensor Management
+    ├── Device Management
+    ├── Logging
+    ├── Networking
+    ├── Configuration
+    └── OTA
+    │
+    ▼
+Hardware Abstraction
+    │
+    ▼
+Microcontroller / Peripherals
+````
+
+**Technology:**
+`C++` `Arduino` `ESP32` `Embedded Architecture` `IoT`
+
+👉 **Explore:** [GitHub](https://github.com/gmostofabd)
+
+---
+
+## ⚙️ ARDU-8051
+
+### Arduino-Compatible Open-Source 8051 Learning Hardware
+
+An open hardware platform designed to make **8051 microcontroller experimentation and embedded-systems education** more accessible.
+
+### Includes
+
+* 8051 development hardware
+* USBasp programming
+* Arduino-style interface
+* Schematic and PCB resources
+* 3D design resources
+* Firmware
+* Educational examples
+
+**Technology:**
+`8051` `AT89S52` `USBasp` `PCB` `Open Hardware` `Embedded Education`
+
+👉 **Repository:**
+[ARDU-8051](https://github.com/gmostofabd/ARDU-8051)
+
+🔬 **Research:**
+[ResearchGate](https://www.researchgate.net/)
+
+---
+
+# 🔬 Research & Engineering Interests
+
+### Embedded Systems
+
+`Embedded C/C++` · `Firmware` · `MCU Architecture` · `Peripheral Interfacing` · `Distributed Controllers`
+
+### Electronics & Hardware
+
+`Circuit Design` · `PCB Design` · `Sensors` · `Actuators` · `Instrumentation` · `Power Electronics`
+
+### IoT
+
+`ESP32` · `ESP8266` · `MQTT` · `REST` · `JSON` · `Web Servers` · `OTA` · `Cloud Connectivity`
+
+### Smart Systems
+
+`Aquaponics` · `Hydroponics` · `Smart Agriculture` · `Renewable Energy` · `Automation` · `Robotics`
+
+### Engineering Education
+
+`STEM/STEAM` · `Microcontrollers` · `Practical Electronics` · `Proteus` · `Open Educational Hardware`
+
+---
+
+# 📚 Research & Publications
+
+## ARDU-8051 — An Arduino-Compatible Open-Source 8051 Learning Hardware Shield
+
+Research and development of an open 8051 learning platform combining classical microcontroller technology with an Arduino-style development experience.
+
+**Author:** Golam Mostofa
+**Institution:** Islamic University of Technology
+
+🔬 [View on ResearchGate](https://www.researchgate.net/publication/399465555_Design_and_Development_of_ARDU-8051_-_An_Arduino-Compatible_Open-Source_8051_Learning_Hardware_Shield)
+
+🔧 [Open-source implementation](https://github.com/gmostofabd/ARDU-8051)
+
+---
+
+## 🌐 Engineering Portfolio
+
+My work includes practical projects in:
+
+* Arduino development
+* 8051 / AVR / PIC systems
+* ESP32 / ESP8266 IoT
+* Proteus simulation
+* PCB design
+* Sensors and instrumentation
+* Robotics
+* Automation
+* Smart agriculture
+* Renewable-energy systems
+* Embedded web interfaces
+* Educational electronics
+
+👉 [Visit my portfolio](https://sites.google.com/view/gmostofabd/)
+
+---
+
+# 🛠️ Technology Stack
+
+<div align="center">
+
+### Languages
+
+`C` `C++` `Assembly` `Python` `JavaScript` `HTML` `CSS`
+
+### Hardware
+
+`ESP32` `ESP8266` `Arduino` `AVR` `8051` `PIC`
+
+### Communication
+
+`I²C` `UART` `SPI` `MQTT` `REST` `JSON`
+
+### Tools
+
+`Arduino IDE` `VS Code` `Git` `GitHub` `Proteus`
+
+### Engineering
+
+`PCB Design` `Circuit Design` `Embedded Firmware` `IoT` `Automation` `Robotics`
+
+</div>
+
+---
+
+# 🏗️ How I Build Systems
+
+```text
+                ┌─────────────────────┐
+                │       IDEA          │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │  SYSTEM DESIGN      │
+                │ Hardware + Software │
+                └──────────┬──────────┘
+                           │
+             ┌─────────────┴─────────────┐
+             ▼                           ▼
+      ┌─────────────┐             ┌─────────────┐
+      │   HARDWARE  │             │   FIRMWARE  │
+      │ PCB / MCU   │             │ C / C++     │
+      │ Sensors     │             │ Drivers     │
+      └──────┬──────┘             └──────┬──────┘
+             │                           │
+             └─────────────┬─────────────┘
+                           ▼
+                ┌─────────────────────┐
+                │   CONNECTED SYSTEM  │
+                │ IoT / API / Web     │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │ APPLICATION / UI    │
+                │ Dashboard / Mobile  │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   REAL-WORLD USE    │
+                └─────────────────────┘
+```
+
+---
+
+# 🌍 Open Source Philosophy
+
+I believe engineering knowledge becomes more valuable when it is:
+
+**Built → Tested → Documented → Shared → Reused**
+
+My repositories aim to make practical engineering resources available through:
+
+* 💻 Source code
+* 🔧 Firmware
+* 🔌 Schematics
+* 🧪 Simulations
+* 🧩 PCB designs
+* 📦 Libraries
+* 📚 Documentation
+* 🎓 Educational examples
+* 🌐 IoT systems
+
+---
+
+# 🎯 Current Focus
+
+### 🌱 SPSAS
+
+**Smart agriculture + IoT + renewable energy**
+
+### 🧩 OpenIoT
+
+**Modular embedded IoT architecture**
+
+### ⚙️ ARDU-8051
+
+**Open-source embedded education hardware**
+
+### 🔬 Arduino + Proteus Ecosystem
+
+**Practical electronics, simulation and learning resources**
+
+---
+
+# 🤝 Collaboration
+
+I am interested in collaborating on:
+
+* Embedded systems
+* ESP32 / Arduino
+* IoT
+* Open hardware
+* PCB design
+* Robotics
+* Smart agriculture
+* Renewable-energy systems
+* Electronics education
+* Embedded software architecture
+* STEM/STEAM projects
+
+If a project is useful to you:
+
+**⭐ Star · 🍴 Fork · 🐛 Report · 🔧 Contribute · 📢 Share**
+
+---
+
+# 🌐 Connect With Me
+
+| Platform        | Profile                                                  |
+| --------------- | -------------------------------------------------------- |
+| 💻 GitHub       | [@gmostofabd](https://github.com/gmostofabd)             |
+| 💼 LinkedIn     | [Golam Mostofa](https://www.linkedin.com/in/gmostofabd/) |
+| 🔬 ResearchGate | [Golam Mostofa](https://www.researchgate.net/)           |
+| 🌐 Website      | [gmostofaBD](https://sites.google.com/view/gmostofabd/)  |
+| 📌 Pinterest    | [@gmostofabd0](https://www.pinterest.com/gmostofabd0/)   |
+
+---
+
+# 🌟 Vision
+
+```text
+       OPEN HARDWARE
+             +
+      EMBEDDED SOFTWARE
+             +
+             IoT
+             +
+      RENEWABLE ENERGY
+             +
+        SMART SYSTEMS
+             +
+   ENGINEERING EDUCATION
+             │
+             ▼
+    PRACTICAL OPEN TECHNOLOGY
+```
+
+> **One professional identity. Multiple platforms. Shared knowledge. Real-world impact.**
+
+---
+
+<div align="center">
+
+## ⚡ Hardware → Firmware → IoT → Intelligence → Real World
+
+### **Golam Mostofa · gmostofaBD**
+
+*Building practical systems. Sharing engineering knowledge.*
+
+</div>
+added a mosfet driver part and a transformer as well. 🤖🔧
 
 ---
 
