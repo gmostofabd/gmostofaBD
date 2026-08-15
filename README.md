@@ -53,9 +53,9 @@ I enjoy taking an idea from:
 
 # 🚀 Flagship Projects
 
-## 🌱 SPSAS — Solar Powered Smart Aquaponic System
+## 🌱 ESP-OTA-Web-Dashboard-Framework
 
-A solar-powered embedded IoT platform for **aquaponics, hydroponics, smart agriculture and energy-aware automation**.
+Modular ESP web dashboard framework with real-time monitoring, device control,, OTA updates and more...
 
 ### System Capabilities
 
