@@ -186,18 +186,6 @@ Research and development of an open 8051 learning platform combining classical m
 
 ## 🌐 Engineering Portfolio
 
-
-<div align="center">
-
-<img src="./assets/gmostofaBD-profile-banner.png" alt="Golam Mostofa — Electronics, Embedded Systems, IoT and Open Hardware" width="100%">
-
-</div>
-
-
-
-
-
-
 My work includes practical projects in:
 
 * Arduino development
@@ -309,9 +297,9 @@ My repositories aim to make practical engineering resources available through:
 
 # 🎯 Current Focus
 
-### 🌱 SPSAS
+### 🌱 SAOS
 
-**Smart agriculture + IoT + renewable energy**
+**Smart Agriculture + IoT + Renewable energy**
 
 ### 🧩 OpenIoT
 
